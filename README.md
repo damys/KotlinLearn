@@ -13,7 +13,7 @@ Kotlin Learn
 * [类和对象](KotlinLearn)
 	* [修饰符](KotlinLearn/修饰符.md)
     * [类](KotlinLearn/类.md)
-    * [抽象类、嵌套类、内部类、密封类、枚举类](KotlinLearn/抽象类、嵌套类、内部类、密封类、枚举类.md)(KotlinLearn)
+    * [抽象类、嵌套类、内部类、密封类、枚举类](KotlinLearn/抽象类、嵌套类、内部类、密封类、枚举类.md)
     * [数据类](KotlinLearn/数据类.md)
     * [继承](KotlinLearn/继承.md)
     * [接口](KotlinLearn/接口.md)
