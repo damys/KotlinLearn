@@ -26,6 +26,8 @@ Kotlin Learn
 * [函数和Lambda](KotlinLearn)
     * [命名参数、默认参数值、可变参数](KotlinLearn/命名参数、默认参数值、可变参数.md)
     * [扩展函数和扩展属性](KotlinLearn/扩展函数和扩展属性.md)
+    * [Lambda 表达式](KotlinLearn/Lambda 表达式.md)
+    * [函数操作符](KotlinLearn/函数操作符.md)
 * [其他](KotlinLearn)
 	* [异常](KotlinLearn/异常.md)
     * [运算符重载](KotlinLearn/运算符重载.md)
